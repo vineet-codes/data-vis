@@ -4,7 +4,7 @@ Collection of Visualization utilities for personal reuse written in `React.js` a
 
 - Raster graphics vs Vector Graphics
 
-![Raster vs Vector](./figs/rastervsvector.png =300x200)
+<img src="./figs/rastervsvector.png" alt="raster vs vector" width='300px' height='200px' />
 
 ## Resources for inspiration
 
